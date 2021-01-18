@@ -14,7 +14,7 @@ I want to work for an organization and provide solutions to the people in the IT
 
 ## Links
 
-LinkedIn Profile : https://www.linkedin.com/mwlite/in/pruthvi-naskanti-18a19a117
-GitHub Profile : https://github.com/pruthvi-naskanti
+- LinkedIn Profile : https://www.linkedin.com/mwlite/in/pruthvi-naskanti-18a19a117
+- GitHub Profile : https://github.com/pruthvi-naskanti
 
 
